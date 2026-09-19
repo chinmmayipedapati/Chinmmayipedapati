@@ -1,19 +1,18 @@
-
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:080B24,50:512BD4,100:00D9FF&height=230&section=header&text=V%20V%20Chinmmayi%20Pedapati&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Cloud%20%7C%20AI%20%7C%20Software%20Development&descAlignY=60&descSize=16)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B24,50:512BD4,100:00D9FF&height=230&section=header&text=V%20V%20Chinmmayi%20Pedapati&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Cloud%20%7C%20AI%20%7C%20Software%20Development&descAlignY=60&descSize=16" width="100%" alt="Profile banner"/>
 
-# 👋 Hi, I'm V V Chinmmayi Pedapati
+# Hi, I'm V V Chinmmayi Pedapati 👋
 
-### 💜 CSE Student | Cybersecurity & Cloud Enthusiast | Software Developer
+### 💜 CSE Student | Aspiring Software Developer | Cybersecurity & Cloud Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=9B7BFF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Universe!;Exploring+Cybersecurity+and+Cloud+Computing;Building+Web+Applications+and+AI+Projects;Learning+DevOps+and+Linux;Turning+Ideas+Into+Real-World+Projects" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=9B7BFF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Universe!;Building+Web+Applications;Exploring+Cybersecurity+and+Cloud;Learning+AI%2C+Linux+and+DevOps;Turning+Ideas+Into+Projects" alt="Typing animation"/>
 
 <br/>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-512BD4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinmmayi-pedapati-2b128b310/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00B8D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chinmmayipedapati/chinmmayi_Portfolio)
 [![GitHub](https://img.shields.io/badge/GitHub-080B24?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chinmmayipedapati)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-512BD4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinmmayi-pedapati-2b128b310)
-[![Email](https://img.shields.io/badge/Email-00B8D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:324103210223.chinmayi@gvpcew.ac.in)
 
 </div>
 
@@ -30,24 +29,20 @@ interests:
   - Cybersecurity
   - Cloud Computing
   - Artificial Intelligence
-  - Software Development
+  - Web Development
   - DevOps
 
 currently_learning:
   - Linux
   - Cybersecurity Fundamentals
-  - Jenkins
   - Maven
+  - Jenkins
   - CI/CD
 
-goal: Build practical, secure and scalable software solutions
+goal: Build practical, secure and useful software projects
 ```
 
-I am a Computer Science student passionate about exploring how technology can solve real-world problems.
-
-My interests include cybersecurity, cloud computing, artificial intelligence, and full-stack web development.
-
-I enjoy building practical applications, learning new technologies, and improving my software engineering skills through hands-on projects.
+I'm a Computer Science student who enjoys building web applications and exploring new technologies. I'm developing my skills in **cybersecurity, cloud computing, AI, and DevOps**, while strengthening my programming and software development fundamentals.
 
 ---
 
@@ -61,17 +56,21 @@ I enjoy building practical applications, learning new technologies, and improvin
 
 ### 🌐 Web Development
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,vite,firebase&theme=dark" alt="Web development tools"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,vite,firebase&theme=dark" alt="Web development technologies"/>
 
 ### 🛠️ Developer Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu&theme=dark" alt="Developer tools"/>
 
-### ☁️ Currently Exploring
+### 📚 Currently Learning
 
-<img src="https://skillicons.dev/icons?i=aws,docker,jenkins&theme=dark" alt="Cloud and DevOps technologies"/>
+<img src="https://skillicons.dev/icons?i=jenkins,maven&theme=dark" alt="DevOps tools"/>
 
-*Currently learning cloud infrastructure, cybersecurity fundamentals, and DevOps workflows.*
+<br/>
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Learning-512BD4?style=for-the-badge)
+![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-Learning-00B8D9?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Learning-512BD4?style=for-the-badge)
 
 </div>
 
@@ -79,63 +78,90 @@ I enjoy building practical applications, learning new technologies, and improvin
 
 ## 🚀 Featured Projects
 
-### 🌐 Personal Portfolio
+### ⚔️ 1. Paladin Learning — Gamified History Learning
+
+**Explore history through stories, decisions, and quizzes.**
+
+Paladin Learning is a gamified history-learning prototype that combines interactive historical stories, decision-based lessons, quizzes, and a learner dashboard.
+
+**Features:**
+- Narrative lessons based on historical events
+- Interactive decision points with different story outcomes
+- Multiple-choice quizzes with explanations and score feedback
+- Learner dashboard displaying lesson progress, XP, and levels
+- Firebase Authentication and Firestore integration code
+- Responsive web interface and Capacitor mobile project scaffolding
+
+**Technologies:** HTML, CSS, JavaScript, Tailwind CSS, Firebase, Capacitor
+
+**Status:** Development prototype. Firebase currently uses mock services, and the XP progression flow requires a fix before it works reliably.
+
+[![View Paladin Learning](https://img.shields.io/badge/View_Paladin_Learning-512BD4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chinmmayipedapati/paladin-learning)
+
+---
+
+### 🌐 2. Personal Portfolio
 
 A responsive personal website showcasing my background, technical skills, projects, and learning achievements.
 
 **Technologies:** HTML, CSS, JavaScript
 
-[![Repository](https://img.shields.io/badge/View_Project-512BD4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chinmmayipedapati?tab=repositories&q=portfolio)
-
-### 🌾 FarmDirect
-
-A farmer-to-customer marketplace API prototype designed to explore direct agricultural product distribution.
-
-**Features:**
-- Product routes
-- Firestore integration
-- Mock demonstration mode
-
-**Technologies:** Node.js, Express, Firebase
-
-[![Repository](https://img.shields.io/badge/View_Project-512BD4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chinmmayipedapati?tab=repositories&q=FarmDirect)
-
-### 🌌 Nebula
-
-An astrology-themed interactive web application featuring visual charts, compatibility views, and a rule-based chat experience.
-
-Includes native mobile project scaffolding.
-
-**Technologies:** JavaScript, Vite, Canvas, Capacitor
-
-[![Repository](https://img.shields.io/badge/View_Project-512BD4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chinmmayipedapati?tab=repositories&q=Nebula)
+[![View Personal Portfolio](https://img.shields.io/badge/View_Personal_Portfolio-00B8D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chinmmayipedapati/chinmmayi_Portfolio)
 
 ---
 
-## 🏆 Learning & Certifications
+### 🌾 3. FarmDirect
+
+A farmer-to-customer marketplace API prototype featuring product routes, Firestore integration, and a mock demonstration mode.
+
+**Technologies:** Node.js, Express, Firebase
+
+[![View FarmDirect](https://img.shields.io/badge/View_FarmDirect-512BD4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chinmmayipedapati/FarmDirect)
+
+---
+
+### 🌌 4. Nebula
+
+An astrology-themed interface featuring an interactive chart, compatibility views, and rule-based chat functionality. The project also includes native mobile project scaffolding.
+
+**Technologies:** JavaScript, Vite, Canvas, Capacitor
+
+[![View Nebula](https://img.shields.io/badge/View_Nebula-00B8D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chinmmayipedapati/Nebula)
+
+---
 
 <div align="center">
 
-![GitHub Pro](https://img.shields.io/badge/GitHub_Pro-Active-512BD4?style=for-the-badge&logo=github&logoColor=white)
-
-![GitHub Developer Program](https://img.shields.io/badge/GitHub_Developer_Program-Registered-00B8D9?style=for-the-badge&logo=github&logoColor=white)
+[![Explore All Repositories](https://img.shields.io/badge/Explore_All_Repositories-080B24?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chinmmayipedapati?tab=repositories)
 
 </div>
 
-### 📚 Learning Journey
+---
 
-- GitHub Skills: Introduction to GitHub
-- Git and GitHub collaboration workflows
-- Web development and software engineering
-- Linux and operating system fundamentals
-- Cybersecurity and cloud computing
-- DevOps fundamentals, Maven, Jenkins, and CI/CD
+## 🎓 Learning & Certifications
 
-### 🎓 Certificates & Achievements
+### 📘 Infosys Springboard
 
-My certificates, technical achievements, and completed learning programs are part of my ongoing professional development.
+- Node.js
+- JavaScript
+- Express.js
+- HTML5
 
-[![LinkedIn](https://img.shields.io/badge/View_My_Professional_Profile-512BD4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinmmayi-pedapati-2b128b310)
+### 🤖 Microsoft
+
+- AI and Copilot learning
+- Cybersecurity fundamentals
+- Security, compliance, and identity concepts
+
+### 🌐 NASSCOM FutureSkills Prime
+
+- Collaborative work culture and governance
+
+### ✨ Google
+
+- Gemini Certified Student certificate
+
+[![View Learning Achievements](https://img.shields.io/badge/View_My_Learning_Achievements-512BD4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chinmmayipedapati/chinmmayi_Portfolio/blob/main/index.html)
 
 ---
 
@@ -143,13 +169,13 @@ My certificates, technical achievements, and completed learning programs are par
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chinmmayipedapati&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080B24&title_color=9B7BFF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=chinmmayipedapati&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmmayipedapati&layout=compact&theme=tokyonight&hide_border=true&bg_color=080B24&title_color=9B7BFF&text_color=FFFFFF" alt="Most used repository languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmmayipedapati&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Most used repository languages"/>
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=chinmmayipedapati&theme=tokyonight&hide_border=true&background=080B24&ring=9B7BFF&fire=00D9FF&currStreakLabel=9B7BFF" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=chinmmayipedapati&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -165,35 +191,32 @@ My certificates, technical achievements, and completed learning programs are par
 
 ---
 
-## 🎯 Current Focus
+## 🎯 What I'm Working Toward
 
-- Strengthening my cybersecurity fundamentals.
-- Learning cloud computing and deployment.
-- Practicing Linux and DevOps workflows.
-- Developing practical web applications.
-- Exploring artificial intelligence applications.
-- Building projects that demonstrate real-world problem-solving.
+- Building a substantial cybersecurity project and exploring a research topic
+- Improving project documentation and development workflows
+- Strengthening programming and data structures fundamentals
+- Learning practical cloud computing and DevOps concepts
+- Developing projects that demonstrate real-world problem-solving
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
 
-I'm always interested in learning, collaborating, and exploring new technology.
+I'm interested in **web development, cybersecurity, cloud computing, and student project collaboration**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-512BD4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinmmayi-pedapati-2b128b310)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-512BD4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinmmayi-pedapati-2b128b310/)
 [![GitHub](https://img.shields.io/badge/GitHub-080B24?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chinmmayipedapati)
-
-[![Email](https://img.shields.io/badge/Email-00B8D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:324103210223.chinmayi@gvpcew.ac.in)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00B8D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chinmmayipedapati/chinmmayi_Portfolio)
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chinmmayipedapati&color=7957d5&style=for-the-badge)
 
-### 💜 Thanks for visiting my GitHub universe!
+### 💜 Building. Learning. Improving.
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:512BD4,100:080B24&height=120&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:512BD4,100:080B24&height=120&section=footer" width="100%" alt="Footer banner"/>
 
 </div>
